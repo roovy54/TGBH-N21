@@ -34,7 +34,9 @@ The Rider Interface focuses on convenience, safety, and an integrated travel exp
 
 ### Supply-Demand Backend
 
-The Supply-Demand Backend is the intelligent core of the platform that balances driver availability with rider demand by predicting future rider distribution and making the current idle distribution close enough to the future rider distribution using a KL diveregence threshold. 
+The Supply-Demand Backend is the intelligent core of the platform that balances driver availability with rider demand by predicting future rider distribution and making the current idle driver distribution close enough to the future rider distribution using a KL diveregence threshold. 
+
+![Pipeline](supply_demand_pipeline.jpg)
 
 ## Getting Started
 
