@@ -1,8 +1,8 @@
-# NammaRide - Integrated Ride-Sharing Platform
+# NammaYatriPlus - Integrated Ride-Sharing Platform
 
 ## Overview
 
-NammaRide is a comprehensive ride-sharing platform designed to serve both drivers and riders with innovative features that enhance the user experience, safety, and efficiency. The platform consists of three main components:
+NammaYatriPlus is a comprehensive ride-sharing platform that is designed on top on NammaYatri's features to serve both drivers and riders with innovative features that enhance the user experience, safety, and efficiency. The platform consists of three main components:
 
 1. **Driver Interface**
 2. **Rider Interface**
@@ -34,13 +34,7 @@ The Rider Interface focuses on convenience, safety, and an integrated travel exp
 
 ### Supply-Demand Backend
 
-The Supply-Demand Backend is the intelligent core of the platform that balances driver availability with rider demand:
-
-- **Predictive Demand Modeling**: Utilizes historical data and machine learning to forecast demand patterns
-- **Dynamic Pricing Algorithm**: Automatically adjusts prices based on supply-demand gaps
-- **Driver Allocation Optimization**: Efficiently matches drivers to riders considering multiple factors including distance, driver preferences, and rider needs
-- **Real-time Analytics Dashboard**: Provides system-wide visibility for operational monitoring
-- **API Integration Layer**: Connects with external services including payment gateways, mapping services, and partner applications
+The Supply-Demand Backend is the intelligent core of the platform that balances driver availability with rider demand by predicting future rider distribution and making the current idle distribution close enough to the future rider distribution using a KL diveregence threshold. 
 
 ## Getting Started
 
