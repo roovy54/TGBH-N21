@@ -1,7 +1,5 @@
 # NammaRide - Integrated Ride-Sharing Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 NammaRide is a comprehensive ride-sharing platform designed to serve both drivers and riders with innovative features that enhance the user experience, safety, and efficiency. The platform consists of three main components:
